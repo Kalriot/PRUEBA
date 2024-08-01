@@ -2492,7 +2492,7 @@
                 {
                     "Horario": "2",
                     "Inicio": "10:00",
-                    "Fin": "12:00",
+                    "Fin": "14:00",
                     "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
@@ -3056,7 +3056,7 @@
             "Asignatura": "202SW0304 - INGENIERÍA ECONÓMICA",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "--",
+            "Docente": "012351 - CARDENAS YACTAYO, URCISINIO VICENTE",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -3078,7 +3078,7 @@
             "Asignatura": "202SW0304 - INGENIERÍA ECONÓMICA",
             "Créd.": "3",
             "Sec.": "2",
-            "Docente": "--",
+            "Docente": "057622 - REÁTEGUI SÁNCHEZ DE SÁNCHEZ, LLEYNI",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -3100,7 +3100,7 @@
             "Asignatura": "202SW0304 - INGENIERÍA ECONÓMICA",
             "Créd.": "3",
             "Sec.": "3",
-            "Docente": "--",
+            "Docente": "0A1565 - CHUMACERO CALLE, JOSÉ ANTONIO",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -3170,8 +3170,8 @@
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
                     "Día": "SABADO",
                     "Tipo": "Teoría"
                 },
@@ -3254,7 +3254,7 @@
             "Asignatura": "202SW0306 - MATEMÁTICA BÁSICA",
             "Créd.": "4",
             "Sec.": "3",
-            "Docente": "0A1331 - LUNA VALDEZ, JUAN HONORATO",
+            "Docente": "091103 - PEÑA FLORES, ROLAND HUBER",
             "Horarios": [
                 {
                     "Horario": "1",
