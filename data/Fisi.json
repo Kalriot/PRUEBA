@@ -4933,73 +4933,7 @@
             "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
             "Créd.": "2",
             "Sec.": "1",
-            "Docente": "0A0182 - RUIZ RIVERA, MARIA ELENA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "2",
-            "Docente": "09571E - TRUJILLO TREJO, JOHNLEDGARD",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "3",
-            "Docente": "0A0182 - RUIZ RIVERA, MARIA ELENA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "4",
-            "Docente": "09571E - TRUJILLO TREJO, JOHNLEDGARD",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -5018,274 +4952,10 @@
             ]
         },
         {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "5",
-            "Docente": "08803A - ROMERO NAUPARI, PABLO JESUS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "6",
-            "Docente": "085774 - VERA POMALAZA, VIRGINIA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "5",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO101 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA I",
-            "Créd.": "3",
-            "Sec.": "6",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
             "Créd.": "2",
             "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
-            "Créd.": "2",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
-            "Créd.": "2",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
-            "Créd.": "2",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
-            "Créd.": "2",
-            "Sec.": "5",
-            "Docente": "--",
+            "Docente": "41388541 - JHONATHAN AGUILAR CORONEL",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -5304,683 +4974,155 @@
             ]
         },
         {
-            "Asignatura": "INO102 - MÉTODOS DE ESTUDIO UNIVERSITARIO",
-            "Créd.": "2",
-            "Sec.": "6",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
-            "Créd.": "2",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
             "Créd.": "2",
             "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
-            "Créd.": "2",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
-            "Créd.": "2",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "09:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "09:00",
-                    "Fin": "11:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
-            "Créd.": "2",
-            "Sec.": "5",
-            "Docente": "--",
+            "Docente": "41388541 - JHONATHAN AGUILAR CORONEL",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
                     "Fin": "15:00",
-                    "Día": "LUNES",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "15:00",
                     "Fin": "17:00",
-                    "Día": "LUNES",
+                    "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO103 - DESARROLLO PERSONAL Y LIDERAZGO",
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
             "Créd.": "2",
-            "Sec.": "6",
-            "Docente": "--",
+            "Sec.": "3",
+            "Docente": "09620253 - HEDDY LILIANA COLCA GARCIA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "11:00",
+                    "Fin": "12:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "12:00",
+                    "Fin": "14:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
+            "Créd.": "2",
+            "Sec.": "4",
+            "Docente": "09620253 - HEDDY LILIANA COLCA GARCIA",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
                     "Fin": "15:00",
-                    "Día": "LUNES",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "15:00",
                     "Fin": "17:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
+            "Créd.": "2",
             "Sec.": "5",
-            "Docente": "--",
+            "Docente": "09620253 - HEDDY LILIANA COLCA GARCIA",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "JUEVES",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "14:00",
-                    "Día": "JUEVES",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO104 - CÁLCULO I",
-            "Créd.": "4",
+            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN ",
+            "Créd.": "2",
             "Sec.": "6",
-            "Docente": "--",
+            "Docente": "10275035 - YOLANDA OLIVIA ORELLANA MANRIQUE",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "JUEVES",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "14:00",
-                    "Día": "JUEVES",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
+            "Asignatura": "INO104 - CÁLCULO I ",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "--",
+            "Docente": "0A1457 - SOFIA IRENA DURAN QUIÑONES",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
                     "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
-            "Créd.": "4",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
-            "Créd.": "4",
-            "Sec.": "5",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
+                    "Inicio": "14:00",
+                    "Fin": "18:00",
                     "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO105 - BIOLOGÍA PARA CIENCIAS E INGENIERÍA",
-            "Créd.": "4",
-            "Sec.": "6",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
+            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA ",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "071374 - VALLADOLID FACIO, BENITO",
+            "Docente": "0A0628 - WILFREDO MENDOZA QUISPE",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
+                    "Inicio": "14:00",
+                    "Fin": "18:00",
                     "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
-            "Créd.": "4",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "08:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
-            "Créd.": "4",
-            "Sec.": "5",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "14:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO106 - ÁLGEBRA Y GEOMETRÍA ANALÍTICA",
-            "Créd.": "4",
-            "Sec.": "6",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "14:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "5",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INO107 - MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE",
-            "Créd.": "3",
-            "Sec.": "6",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
                     "Tipo": "Práctica"
                 }
             ]
@@ -5988,597 +5130,925 @@
     ],
     "CICLO 2": [
         {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "42229911 - JHOHANNA RIOS DELGADO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "42229911 - JHOHANNA RIOS DELGADO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "15584946 - CARMEN VIOLETA DIONICIO MEJÍA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "4",
+            "Docente": "15584946 - CARMEN VIOLETA DIONICIO MEJÍA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "5",
+            "Docente": "42229911 - JHOHANNA RIOS DELGADO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO201 - REDACCIÓN Y TÉCNICAS DE COMUNICACIÓN EFECTIVA II ",
+            "Créd.": "3",
+            "Sec.": "6",
+            "Docente": "15584946 - CARMEN VIOLETA DIONICIO MEJÍA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "42229911 - JHOHANNA RIOS DELGADO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "46325393 - JAQUELIN FERNANDEZ ORTIZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "46325393 - JAQUELIN FERNANDEZ ORTIZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "4",
+            "Docente": "09620253 - HEDDY LILIANA COLCA GARCIA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "5",
+            "Docente": "07493618 - ALEXANDER EDUARDO INGA ALVA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO202 - INVESTIGACIÓN FORMATIVA ",
+            "Créd.": "3",
+            "Sec.": "6",
+            "Docente": "46325393 - JAQUELIN FERNANDEZ ORTIZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "1",
+            "Docente": "15584946 - CARMEN VIOLETA DIONICIO MEJÍA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "09:00",
+                    "Día": "SABADO",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "09:00",
+                    "Fin": "11:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "2",
+            "Docente": "41388541 - JHONATHAN AGUILAR CORONEL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "10:00",
+                    "Fin": "11:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "3",
+            "Docente": "41388541 - JHONATHAN AGUILAR CORONEL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "09:00",
+                    "Día": "SABADO",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "09:00",
+                    "Fin": "11:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "4",
+            "Docente": "17410917 - OMAR BORIS VALDERRAMA CAMPOS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "10:00",
+                    "Fin": "11:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "5",
+            "Docente": "41388541 - JHONATHAN AGUILAR CORONEL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Laboratorio"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO203 - REALIDAD NACIONAL Y MUNDIAL ",
+            "Créd.": "2",
+            "Sec.": "6",
+            "Docente": "46325393 - JAQUELIN FERNANDEZ ORTIZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
             "Asignatura": "INO204 - CÁLCULO II",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "--",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "MIERCOLES",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "14:00",
                     "Fin": "18:00",
-                    "Día": "VIERNES",
+                    "Día": "LUNES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "INO205 - FÍSICA I",
+            "Asignatura": "INO204 - CÁLCULO II",
             "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "090476 - SÁNCHEZ ORTIZ, JESÚS FÉLIX",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
                     "Inicio": "14:00",
-                    "Fin": "17:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "17:00",
-                    "Fin": "19:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        }
-    ],
-    "CICLO 3": [
-        {
-            "Asignatura": "202W0301 - ALGORÍTMICA I",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "09454245 - TAPIA CARBAJAL, JUAN RICARDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0301 - ALGORÍTMICA I",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "0A1982 - ARREDONDO CASTILLO, GUSTAVO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0301 - ALGORÍTMICA I",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "09571E - TRUJILLO TREJO, JOHNLEDGARD",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0302 - ESTADÍSTICA",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0302 - ESTADÍSTICA",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "044814 - MIRANDA ROBLES, MARY YRIS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0302 - ESTADÍSTICA",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0302 - ESTADÍSTICA",
-            "Créd.": "3",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0303 - FISICA ELÉCTRONICA",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1200 - YACTAYO YACTAYO, GILBERTO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0303 - FISICA ELÉCTRONICA",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A2051 - MORI ESCOBAR, FANNY ESMERALDA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0303 - FISICA ELÉCTRONICA",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "0A7587 - PAREJA QUISPE, DAVID",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0303 - FISICA ELÉCTRONICA",
-            "Créd.": "3",
-            "Sec.": "4",
-            "Docente": "0A2086 - TESILLO QUISPE, MABEL ERLINDA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0304 - INGENIERÍA ECONÓMICA",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0304 - INGENIERÍA ECONÓMICA",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0304 - INGENIERÍA ECONÓMICA",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0304 - INGENIERÍA ECONÓMICA",
-            "Créd.": "3",
-            "Sec.": "4",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0305 - INTRODUCCIÓN AL DESARROLLO DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1982 - ARREDONDO CASTILLO, GUSTAVO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0305 - INTRODUCCIÓN AL DESARROLLO DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A4525 - MENÉNDEZ MUERAS, ROSA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0305 - INTRODUCCIÓN AL DESARROLLO DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "0A0037 - HUAYNA DUEÑAS, ANA MARIA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
                     "Fin": "18:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO204 - CÁLCULO II",
+            "Créd.": "4",
+            "Sec.": "3",
+            "Docente": "01236A - GREGORIO DEMETRIO CARHUAMACA TICSE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "14:00",
+                    "Fin": "18:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO204 - CÁLCULO II",
+            "Créd.": "4",
+            "Sec.": "4",
+            "Docente": "0A2021 - TEODORO ALFREDO LLERENA LUCERO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "14:00",
+                    "Fin": "18:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO204 - CÁLCULO II",
+            "Créd.": "4",
+            "Sec.": "5",
+            "Docente": "01236A - GREGORIO DEMETRIO CARHUAMACA TICSE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "14:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO204 - CÁLCULO II",
+            "Créd.": "4",
+            "Sec.": "6",
+            "Docente": "0A0258 - VICTOR EMILIO CARRERA BARRANTES",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "14:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "1",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0306 - MATEMÁTICA BÁSICA",
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "3",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "4",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "5",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO205 - FÍSICA I ",
+            "Créd.": "4",
+            "Sec.": "6",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "0A0283 - ARBAÑIL RIVADENEIRA, RUBEN ORLANDO",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
+            "Créd.": "4",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
+            "Créd.": "4",
+            "Sec.": "3",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
+            "Créd.": "4",
+            "Sec.": "4",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
+            "Créd.": "4",
+            "Sec.": "5",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO206 - QUÍMICA GENERAL ",
+            "Créd.": "4",
+            "Sec.": "6",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
+            "Sec.": "1",
+            "Docente": "17410917 - OMAR BORIS VALDERRAMA CAMPOS",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
                     "Fin": "17:00",
                     "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
+            "Sec.": "2",
+            "Docente": "17410917 - OMAR BORIS VALDERRAMA CAMPOS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "LUNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "17:00",
-                    "Fin": "19:00",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
+            "Sec.": "3",
+            "Docente": "07493618 - ALEXANDER EDUARDO INGA ALVA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
                     "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0306 - MATEMÁTICA BÁSICA",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "0A0261 - CHUPAYO EVANGELISTA, HEIDI MARLENE",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0306 - MATEMÁTICA BÁSICA",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "091103 - PEÑA FLORES, ROLAND HUBER",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0306 - MATEMÁTICA BÁSICA",
-            "Créd.": "4",
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
             "Sec.": "4",
-            "Docente": "091103 - PEÑA FLORES, ROLAND HUBER",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0307 - ORGANIZACIÓN Y ADMINISTRACIÓN",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1871 - CHÁVEZ HERRERA , CARLOS ERNESTO",
+            "Docente": "07493618 - ALEXANDER EDUARDO INGA ALVA",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
-                    "Fin": "16:00",
+                    "Fin": "15:00",
                     "Día": "LUNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
                     "Día": "LUNES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0307 - ORGANIZACIÓN Y ADMINISTRACIÓN",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
+            "Sec.": "5",
+            "Docente": "17410917 - OMAR BORIS VALDERRAMA CAMPOS",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "LUNES",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "LUNES",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0307 - ORGANIZACIÓN Y ADMINISTRACIÓN",
-            "Créd.": "3",
-            "Sec.": "3",
-            "Docente": "--",
+            "Asignatura": "INO207 - INTRODUCCIÓN A LAS CIENCIAS E INGENIERÍA ",
+            "Créd.": "2",
+            "Sec.": "6",
+            "Docente": "07493618 - ALEXANDER EDUARDO INGA ALVA",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "LUNES",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "LUNES",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -6589,7 +6059,73 @@
             "Asignatura": "202W0401 - ALGORÍTMICA II",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "085774 - VERA POMALAZA, VIRGINIA",
+            "Docente": "0A9179 - JUAN RICARDO TAPIA CARBAJAL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0401 - ALGORÍTMICA II",
+            "Créd.": "4",
+            "Sec.": "2",
+            "Docente": "095753 - ZHING FONG LAM -",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "17:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "17:00",
+                    "Fin": "19:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0401 - ALGORÍTMICA II",
+            "Créd.": "4",
+            "Sec.": "3",
+            "Docente": "089575 - GILBERTO ANÍBAL SALINAS AZAÑA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0401 - ALGORÍTMICA II",
+            "Créd.": "4",
+            "Sec.": "4",
+            "Docente": "0A1609 - JORGE LUIS ZAVALETA CAMPOS",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -6611,7 +6147,73 @@
             "Asignatura": "202W0402 - CONTABILIDAD PARA LA GESTIÓN",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A7569 - AYALA FLORES, EVA CAROLINA",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0402 - CONTABILIDAD PARA LA GESTIÓN",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "29555125 - FAUSTO FRANKLIN MERCADO PHILCO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0402 - CONTABILIDAD PARA LA GESTIÓN",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "08490635 - ENCARNACIÓN MALECIO ASENCIOS ESPINOZA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "13:00",
+                    "Fin": "15:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0402 - CONTABILIDAD PARA LA GESTIÓN",
+            "Créd.": "3",
+            "Sec.": "4",
+            "Docente": "29555125 - FAUSTO FRANKLIN MERCADO PHILCO",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -6633,42 +6235,108 @@
             "Asignatura": "202W0403 - INNOVACIÓN, TECNOLOGÍA Y EMPRENDIMIENTO",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A4524 - BAYONA ORÉ, LUZ SUSSY",
+            "Docente": "0A4524 - LUZ SUSSY BAYONA   ORÉ",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "13:00",
                     "Fin": "15:00",
-                    "Día": "MIERCOLES",
+                    "Día": "JUEVES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "15:00",
                     "Fin": "17:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0404 - MATEMÁTICA DISCRETA ",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "0A5230 - CIRO RODRÍGUEZ  RODRÍGUEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0404 - MATEMÁTICA DISCRETA",
+            "Asignatura": "202W0404 - MATEMÁTICA DISCRETA ",
             "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A5230 - RODRÍGUEZ RODRÍGUEZ , CIRO",
+            "Sec.": "2",
+            "Docente": "0A5230 - CIRO RODRÍGUEZ  RODRÍGUEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0404 - MATEMÁTICA DISCRETA ",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "0A1610 - SANTIAGO DOMINGO MOQUILLAZA HENRIQUEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0404 - MATEMÁTICA DISCRETA ",
+            "Créd.": "3",
+            "Sec.": "4",
+            "Docente": "018686 - AUGUSTO PARCEMON CORTEZ VÁSQUEZ",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "08:00",
                     "Fin": "10:00",
-                    "Día": "MIERCOLES",
+                    "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "10:00",
                     "Fin": "12:00",
-                    "Día": "MIERCOLES",
+                    "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -6677,7 +6345,7 @@
             "Asignatura": "202W0405 - PROBABILIDADES",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "07621A - ZACARIAS DIAZ, MARIA ANTONIETA",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -6699,19 +6367,19 @@
             "Asignatura": "202W0406 - PROCESOS DE SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A5307 - GUZMÁN MONTEZA, YUDI LUCERO",
+            "Docente": "0A1982 - GUSTAVO ARREDONDO   CASTILLO",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "08:00",
-                    "Fin": "11:00",
+                    "Fin": "10:00",
                     "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
                     "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
@@ -6721,7 +6389,29 @@
             "Asignatura": "202W0407 - SISTEMAS DIGITALES",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "095699 - ARMAS CALDERÓN, RAÚL MARCELO",
+            "Docente": "0A7565 - JAVIER ANTONIO PRUDENCIO   VIDAL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
+                    "Día": "SABADO",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "SABADO",
+                    "Tipo": "Laboratorio"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0407 - SISTEMAS DIGITALES",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A5306 - IGOR JOVINO AGUILAR  ALONSO",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -6742,331 +6432,23 @@
     ],
     "CICLO 5": [
         {
-            "Asignatura": "202W0501 - ANÁLISIS Y DISEÑO DE ALGORITMOS",
-            "Créd.": "3",
+            "Asignatura": "202W0505 - ESTRUCTURA DE DATOS",
+            "Créd.": "4",
             "Sec.": "1",
-            "Docente": "0A7565 - PRUDENCIO VIDAL, JAVIER ANTONIO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0501 - ANÁLISIS Y DISEÑO DE ALGORITMOS",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "095729 - CHÁVEZ SOTO, JORGELUIS",
+            "Docente": "0A1982 - GUSTAVO ARREDONDO   CASTILLO",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0502 - ARQUITECTURA DE COMPUTADORAS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A5306 - AGUILAR ALONSO, IGOR JOVINO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
+                    "Fin": "11:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
                     "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0502 - ARQUITECTURA DE COMPUTADORAS",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "051934 - PARIONA QUISPE, JAIME RUBEN",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0503 - CALIDAD DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1877 - BARTRA MORE, ARTURO ALEJANDRO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0503 - CALIDAD DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A0716 - SOBERO RODRÍGUEZ, FANY YEXENIA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0504 - COMPUTACIÓN VISUAL",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "09571E - TRUJILLO TREJO, JOHNLEDGARD",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0504 - COMPUTACIÓN VISUAL",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0505 - ESTRUCTURA DE DATOS",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "0A7565 - PRUDENCIO VIDAL, JAVIER ANTONIO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0505 - ESTRUCTURA DE DATOS",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "0A1982 - ARREDONDO CASTILLO, GUSTAVO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "13:00",
-                    "Fin": "16:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0505 - ESTRUCTURA DE DATOS",
-            "Créd.": "4",
-            "Sec.": "3",
-            "Docente": "095753 - LAM -, ZHING FONG",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "13:00",
-                    "Fin": "16:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0506 - ECONOMÍA PARA LA GESTIÓN",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A5140 - PINGLO RAMÍREZ, MIGUEL ÁNGEL",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "13:00",
-                    "Fin": "15:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0506 - ECONOMÍA PARA LA GESTIÓN",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "13:00",
-                    "Fin": "15:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0507 - INGENIERÍA DE REQUISITOS",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "0A5230 - RODRÍGUEZ RODRÍGUEZ , CIRO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0507 - INGENIERÍA DE REQUISITOS",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "0A1871 - CHÁVEZ HERRERA , CARLOS ERNESTO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -7077,7 +6459,51 @@
             "Asignatura": "202W0601 - ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A5291 - HUAPAYA CHUMPITAZ, MARIO AGUSTÍN",
+            "Docente": "0A5291 - MARIO AGUSTÍN HUAPAYA  CHUMPITAZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0601 - ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A1877 - ARTURO ALEJANDRO BARTRA  MORE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0601 - ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "0A0716 - FANY YEXENIA SOBERO RODRÍGUEZ",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7099,11 +6525,11 @@
             "Asignatura": "202W0602 - BASE DE DATOS I",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "0A1876 - MURAKAMI DE LA CRUZ , SUMIKO ELIZABETH",
+            "Docente": "0A1876 - SUMIKO ELIZABETH MURAKAMI  DE LA CRUZ",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "18:00",
+                    "Inicio": "17:00",
                     "Fin": "20:00",
                     "Día": "SABADO",
                     "Tipo": "Teoría"
@@ -7118,23 +6544,89 @@
             ]
         },
         {
-            "Asignatura": "202W0603 - DISEÑO DE SOFTWARE",
+            "Asignatura": "202W0602 - BASE DE DATOS I",
             "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "0A1874 - CORDERO SÁNCHEZ, HUGO RAFAEL",
+            "Sec.": "2",
+            "Docente": "0A1982 - GUSTAVO ARREDONDO   CASTILLO",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "13:00",
                     "Fin": "16:00",
-                    "Día": "SABADO",
+                    "Día": "LUNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
                     "Inicio": "16:00",
                     "Fin": "18:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0603 - DISEÑO DE SOFTWARE",
+            "Créd.": "4",
+            "Sec.": "1",
+            "Docente": "0A4525 - ROSA MENÉNDEZ MUERAS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "13:00",
+                    "Fin": "16:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0603 - DISEÑO DE SOFTWARE",
+            "Créd.": "4",
+            "Sec.": "2",
+            "Docente": "0A4525 - ROSA MENÉNDEZ MUERAS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "11:00",
                     "Día": "SABADO",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0603 - DISEÑO DE SOFTWARE",
+            "Créd.": "4",
+            "Sec.": "3",
+            "Docente": "095745 - NEHIL INDALICIO MUÑOZ CASILDO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "13:00",
+                    "Fin": "16:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -7143,20 +6635,42 @@
             "Asignatura": "202W0604 - FORMACIÓN DE EMPRESAS DE SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A4524 - BAYONA ORÉ, LUZ SUSSY",
+            "Docente": "0A1871 - CARLOS ERNESTO CHÁVEZ  HERRERA",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "MIERCOLES",
+                    "Inicio": "13:00",
+                    "Fin": "15:00",
+                    "Día": "SABADO",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0604 - FORMACIÓN DE EMPRESAS DE SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A4524 - LUZ SUSSY BAYONA   ORÉ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "JUEVES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -7165,7 +6679,29 @@
             "Asignatura": "202W0605 - GESTIÓN DE LA CONFIGURACIÓN DEL SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1875 - WONG PORTILLO , LENIS ROSSI",
+            "Docente": "0A1875 - LENIS ROSSI WONG  PORTILLO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "13:00",
+                    "Fin": "16:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0605 - GESTIÓN DE LA CONFIGURACIÓN DEL SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7187,57 +6723,77 @@
             "Asignatura": "202W0606 - INTERACCIÓN HOMBRE COMPUTADOR",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A0690 - LÓPEZ VILLANUEVA, PABLO EDWIN",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "VIERNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0607 - SISTEMAS OPERATIVOS",
+            "Asignatura": "202W0606 - INTERACCIÓN HOMBRE COMPUTADOR",
             "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "09795E - DIAZ MUÑANTE, JORGE RAÚL",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
                     "Día": "VIERNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
                     "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
-        }
-    ],
-    "CICLO 7": [
+        },
         {
-            "Asignatura": "202W0701 - ARQUITECTURA DE SOFTWARE",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "0A4525 - MENÉNDEZ MUERAS, ROSA",
+            "Asignatura": "202W0606 - INTERACCIÓN HOMBRE COMPUTADOR",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "0A9126 - IVAN CARLO PETRLIK AZABACHE",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "13:00",
+                    "Inicio": "17:00",
+                    "Fin": "19:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "19:00",
+                    "Fin": "22:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0607 - SISTEMAS OPERATIVOS ",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
                     "Fin": "16:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Teoría"
@@ -7252,221 +6808,45 @@
             ]
         },
         {
-            "Asignatura": "202W0701 - ARQUITECTURA DE SOFTWARE",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "095745 - MUÑOZ CASILDO, NEHIL INDALICIO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0702 - BASE DE DATOS II",
-            "Créd.": "4",
-            "Sec.": "1",
-            "Docente": "0A1609 - ZAVALETA CAMPOS, JORGE LUIS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0702 - BASE DE DATOS II",
-            "Créd.": "4",
-            "Sec.": "2",
-            "Docente": "09454245 - TAPIA CARBAJAL, JUAN RICARDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0703 - EXPERIENCIA DE USUARIO Y USABILIDAD",
+            "Asignatura": "202W0607 - SISTEMAS OPERATIVOS ",
             "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A9126 - PETRLIK AZABACHE, IVAN CARLO",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
                     "Inicio": "16:00",
                     "Fin": "18:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0704 - GESTIÓN DE PROYECTO DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1877 - BARTRA MORE, ARTURO ALEJANDRO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0704 - GESTIÓN DE PROYECTO DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A5291 - HUAPAYA CHUMPITAZ, MARIO AGUSTÍN",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0705 - INTELIGENCIA ARTIFICIAL",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A2067 - GAMARRA MORENO, JUAN",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
         },
         {
-            "Asignatura": "202W0705 - INTELIGENCIA ARTIFICIAL",
+            "Asignatura": "202W0607 - SISTEMAS OPERATIVOS ",
             "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A6225 - PUELLES BULNES, MARÍA ELIZABETH",
+            "Sec.": "3",
+            "Docente": "051934 - JAIME RUBEN PARIONA QUISPE",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "LUNES",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0706 - MÉTODOS FORMALES PARA PRUEBAS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1877 - BARTRA MORE, ARTURO ALEJANDRO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "17:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0707 - REDES Y TRANSMISIÓN DE DATOS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1981 - UGAZ CACHAY , WINSTON IGNACIO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "11:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "11:00",
-                    "Fin": "13:00",
-                    "Día": "SABADO",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -7477,139 +6857,7 @@
             "Asignatura": "202W0801 - AUTOMATIZACIÓN Y CONTROL DE SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0802 - INTELIGENCIA DE NEGOCIOS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A7624 - CANCHO RODRÍGUEZ, ERNESTO DAVID",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0802 - INTELIGENCIA DE NEGOCIOS",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0803 - METODOLOGÍA DE LA INVESTIGACIÓN",
-            "Créd.": "2",
-            "Sec.": "1",
-            "Docente": "0A5230 - RODRÍGUEZ RODRÍGUEZ , CIRO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0803 - METODOLOGÍA DE LA INVESTIGACIÓN",
-            "Créd.": "2",
-            "Sec.": "2",
-            "Docente": "0A6226 - HERRERA QUISPE, JOSÉ ALFREDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0804 - MINERÍA DE DATOS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A2067 - GAMARRA MORENO, JUAN",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0804 - MINERÍA DE DATOS",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A2417 - CALDERON VILCA, HUGO DAVID",
+            "Docente": "46236577 - YESSICA ROSAS CUEVA",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7628,10 +6876,164 @@
             ]
         },
         {
-            "Asignatura": "202W0805 - PROGRAMACIÓN CONCURRENTE Y PARALELA",
+            "Asignatura": "202W0801 - AUTOMATIZACIÓN Y CONTROL DE SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "29600586 - YVAN JESUS TUPAC VALDIVIA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0802 - INTELIGENCIA DE NEGOCIOS",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "095702 - BUSTAMANTE OLIVERA, VÍCTORHUGO",
+            "Docente": "0A2067 - JUAN GAMARRA  MORENO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0802 - INTELIGENCIA DE NEGOCIOS",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A1877 - ARTURO ALEJANDRO BARTRA  MORE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0803 - METODOLOGÍA DE LA INVESTIGACIÓN",
+            "Créd.": "2",
+            "Sec.": "1",
+            "Docente": "0A1607 - JAVIER ARTURO GAMBOA CRUZADO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0803 - METODOLOGÍA DE LA INVESTIGACIÓN",
+            "Créd.": "2",
+            "Sec.": "2",
+            "Docente": "0A6226 - JOSÉ ALFREDO HERRERA QUISPE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0803 - METODOLOGÍA DE LA INVESTIGACIÓN",
+            "Créd.": "2",
+            "Sec.": "3",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0804 - MINERÍA DE DATOS",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "0A2417 - HUGO DAVID CALDERON   VILCA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0804 - MINERÍA DE DATOS",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A2067 - JUAN GAMARRA  MORENO",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7650,10 +7052,98 @@
             ]
         },
         {
+            "Asignatura": "202W0804 - MINERÍA DE DATOS",
+            "Créd.": "3",
+            "Sec.": "3",
+            "Docente": "0A6226 - JOSÉ ALFREDO HERRERA QUISPE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0805 - PROGRAMACIÓN CONCURRENTE Y PARALELA",
+            "Créd.": "3",
+            "Sec.": "1",
+            "Docente": "0A7565 - JAVIER ANTONIO PRUDENCIO   VIDAL",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0805 - PROGRAMACIÓN CONCURRENTE Y PARALELA",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A9126 - IVAN CARLO PETRLIK AZABACHE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
             "Asignatura": "202W0806 - SEGURIDAD DEL SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1981 - UGAZ CACHAY , WINSTON IGNACIO",
+            "Docente": "0A1981 - WINSTON IGNACIO UGAZ  CACHAY",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0806 - SEGURIDAD DEL SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A5291 - MARIO AGUSTÍN HUAPAYA  CHUMPITAZ",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7675,7 +7165,29 @@
             "Asignatura": "202W0807 - TALLER DE CONSTRUCCIÓN DE SOFTWARE WEB",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1874 - CORDERO SÁNCHEZ, HUGO RAFAEL",
+            "Docente": "0A1874 - HUGO RAFAEL CORDERO   SÁNCHEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0807 - TALLER DE CONSTRUCCIÓN DE SOFTWARE WEB",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A1874 - HUGO RAFAEL CORDERO   SÁNCHEZ",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7697,7 +7209,29 @@
             "Asignatura": "202W0808 - VERIFICACIÓN Y VALIDACIÓN DE SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "--",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "LUNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "LUNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W0808 - VERIFICACIÓN Y VALIDACIÓN DE SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -7721,328 +7255,20 @@
             "Asignatura": "202W0901 - DESARROLLO DE TESIS I",
             "Créd.": "2",
             "Sec.": "1",
-            "Docente": "0A6226 - HERRERA QUISPE, JOSÉ ALFREDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "19:00",
-                    "Fin": "20:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0901 - DESARROLLO DE TESIS I",
-            "Créd.": "2",
-            "Sec.": "2",
-            "Docente": "0A0419 - GUERRA GRADOS, LUIS ANGEL",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "19:00",
-                    "Fin": "20:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0901 - DESARROLLO DE TESIS I",
-            "Créd.": "2",
-            "Sec.": "3",
-            "Docente": "055123 - PRÓ CONCEPCIÓN, LUZMILA ELISA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "19:00",
-                    "Fin": "20:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0901 - DESARROLLO DE TESIS I",
-            "Créd.": "2",
-            "Sec.": "4",
-            "Docente": "096458 - MAURICIO SÁNCHEZ, DAVID SANTOS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "19:00",
-                    "Fin": "20:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0902 - GARANTÍA DE SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0903 - GERENCIA DE TECNOLOGÍA DE LA INFORMACIÓN",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1873 - MACHADO VICENTE, JOEL FERNANDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "13:00",
-                    "Fin": "16:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0904 - GESTIÓN DE MANTENIMIENTO DEL SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A9125 - QUIÑONES NIETO, YAMIL ALEXANDER",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0904 - GESTIÓN DE MANTENIMIENTO DEL SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "VIERNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0905 - GESTIÓN DE RIESGO DEL SOFTWARE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A1873 - MACHADO VICENTE, JOEL FERNANDO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "LUNES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "LUNES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0906 - INTERNET DE LAS COSAS",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "097535 - GUERRA GUERRA, JORGE LEONCIO",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0906 - INTERNET DE LAS COSAS",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "JUEVES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0907 - TALLER DE CONSTRUCCIÓN DE SOFTWARE MÓVIL",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A9126 - PETRLIK AZABACHE, IVAN CARLO",
+            "Docente": "0A5230 - CIRO RODRÍGUEZ  RODRÍGUEZ",
             "Horarios": [
                 {
                     "Horario": "1",
                     "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
+                    "Fin": "09:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0907 - TALLER DE CONSTRUCCIÓN DE SOFTWARE MÓVIL",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "--",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "08:00",
-                    "Fin": "10:00",
-                    "Día": "SABADO",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "10:00",
-                    "Fin": "12:00",
-                    "Día": "SABADO",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0908 - SOFTWARE INTELIGENTE",
-            "Créd.": "3",
-            "Sec.": "1",
-            "Docente": "0A2067 - GAMARRA MORENO, JUAN",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "202W0908 - SOFTWARE INTELIGENTE",
-            "Créd.": "3",
-            "Sec.": "2",
-            "Docente": "0A2417 - CALDERON VILCA, HUGO DAVID",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
+                    "Inicio": "09:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -8053,19 +7279,41 @@
             "Asignatura": "202W1001 - ANALÍTICA DE DATOS",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A9124 - LEZAMA GONZALES, PEDRO MARTÍN",
+            "Docente": "0A2067 - JUAN GAMARRA  MORENO",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "16:00",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
                     "Día": "MARTES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "16:00",
-                    "Fin": "18:00",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1001 - ANALÍTICA DE DATOS",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A1873 - JOEL FERNANDO MACHADO  VICENTE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
                     "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
@@ -8075,7 +7323,7 @@
             "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
             "Créd.": "2",
             "Sec.": "1",
-            "Docente": "0A1875 - WONG PORTILLO , LENIS ROSSI",
+            "Docente": "0A2417 - HUGO DAVID CALDERON   VILCA",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -8097,7 +7345,7 @@
             "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
             "Créd.": "2",
             "Sec.": "2",
-            "Docente": "098329 - LUZA MONTERO, CÉSAR",
+            "Docente": "0A1981 - WINSTON IGNACIO UGAZ  CACHAY",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -8116,10 +7364,120 @@
             ]
         },
         {
+            "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
+            "Créd.": "2",
+            "Sec.": "3",
+            "Docente": "0A1873 - JOEL FERNANDO MACHADO  VICENTE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "19:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
+            "Créd.": "2",
+            "Sec.": "4",
+            "Docente": "0A5306 - IGOR JOVINO AGUILAR  ALONSO",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "19:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
+            "Créd.": "2",
+            "Sec.": "5",
+            "Docente": "055123 - LUZMILA ELISA PRÓ CONCEPCIÓN",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "19:00",
+                    "Fin": "20:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1002 - DESARROLLO DE TESIS II",
+            "Créd.": "2",
+            "Sec.": "6",
+            "Docente": "096458 - DAVID SANTOS MAURICIO SÁNCHEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "19:00",
+                    "Fin": "20:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
             "Asignatura": "202W1003 - PRÁCTICA PRE PROFESIONAL",
             "Créd.": "4",
             "Sec.": "1",
-            "Docente": "0A1876 - MURAKAMI DE LA CRUZ , SUMIKO ELIZABETH",
+            "Docente": "0A1876 - SUMIKO ELIZABETH MURAKAMI  DE LA CRUZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "SABADO",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "14:00",
+                    "Día": "SABADO",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1003 - PRÁCTICA PRE PROFESIONAL",
+            "Créd.": "4",
+            "Sec.": "2",
+            "Docente": "0A1981 - WINSTON IGNACIO UGAZ  CACHAY",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -8141,20 +7499,42 @@
             "Asignatura": "202W1004 - TALLER DE APLICACIONES SOCIALES",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1609 - ZAVALETA CAMPOS, JORGE LUIS",
+            "Docente": "45642296 - EDSON ARIEL TICONA ZEGARRA",
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
-                    "Día": "MARTES",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "VIERNES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
-                    "Día": "MARTES",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1004 - TALLER DE APLICACIONES SOCIALES",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "-- - -- -- --",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "16:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "16:00",
+                    "Fin": "18:00",
+                    "Día": "VIERNES",
                     "Tipo": "Práctica"
                 }
             ]
@@ -8163,7 +7543,7 @@
             "Asignatura": "202W1005 - TENDENCIAS DE ARQUITECTURA DE SOFTWARE",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1874 - CORDERO SÁNCHEZ, HUGO RAFAEL",
+            "Docente": "0A1874 - HUGO RAFAEL CORDERO   SÁNCHEZ",
             "Horarios": [
                 {
                     "Horario": "1",
@@ -8182,10 +7562,54 @@
             ]
         },
         {
+            "Asignatura": "202W1005 - TENDENCIAS DE ARQUITECTURA DE SOFTWARE",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A7624 - ERNESTO DAVID CANCHO   RODRÍGUEZ",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
             "Asignatura": "202W1006 - TENDENCIAS EN INGENIERÍA DE SOFTWARE Y GESTIÓN",
             "Créd.": "3",
             "Sec.": "1",
-            "Docente": "0A1873 - MACHADO VICENTE, JOEL FERNANDO",
+            "Docente": "0A1873 - JOEL FERNANDO MACHADO  VICENTE",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "18:00",
+                    "Fin": "20:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "20:00",
+                    "Fin": "22:00",
+                    "Día": "JUEVES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "202W1006 - TENDENCIAS EN INGENIERÍA DE SOFTWARE Y GESTIÓN",
+            "Créd.": "3",
+            "Sec.": "2",
+            "Docente": "0A1877 - ARTURO ALEJANDRO BARTRA  MORE",
             "Horarios": [
                 {
                     "Horario": "1",
