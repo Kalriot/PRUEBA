@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
 .body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,23 +11,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 70vh;
-    background-image: url('../images/FONDOS.png');
+    /*height: 100%;*/
+    background-image: url('../images/FONDOS.jpg');
     background-color: #DBF9FC;
     color: white; 
 }
-body{
-    background-image: url('../images/FONDOS.png');
+body {
+    background-image: url('../images/FONDOS.jpg');
     color: white;
+    min-height: 100%;
 }
-.header {
-    height: 60px; 
+header {
+    height: 5rem;
     text-align: center;
     margin-bottom: 20px;
 }
-.header h1 {
-    margin-top: 20px;
+header h1 {
+    padding: 1rem 0px;
 }
+
 .options-container {
     text-align: center;
     margin-bottom: 20px;
