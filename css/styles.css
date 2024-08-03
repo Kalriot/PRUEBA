@@ -1,45 +1,48 @@
-* {
+html, * {
     box-sizing: border-box;
     margin: 0px;
+    padding: 0px;
+}
+html {
+    height: 100%;
 }
 
-.body {
+body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /*height: 100%;*/
     background-image: url('../images/FONDOS.jpg');
-    background-color: #DBF9FC;
-    color: white; 
-}
-body {
-    background-image: url('../images/FONDOS.jpg');
+    background-color: #5a308a;
     color: white;
     min-height: 100%;
 }
+
 header {
-    height: 5rem;
+    height: fit-content;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 1rem;
 }
 header h1 {
     padding: 1rem 0px;
 }
 
+main {
+    margin: 1rem auto;
+    width: 80%;
+}
+
 .options-container {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 1rem;
     background-color: white;
-    padding: 10px;
-    border-radius: 8px; 
+    padding: 0.5rem;
+    border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    display: flex; 
+    display: flex;
     justify-content: space-around;
-    align-items: center; 
+    align-items: center;
 }
 
 .options-container label,
@@ -47,8 +50,7 @@ header h1 {
 .options-container button,
 .color-picker-container {
     color: black;
-    margin-right: 5px;
-    margin-bottom: 10px;
+    margin: auto;
 }
 
 select, button {
@@ -124,10 +126,9 @@ button {
     display: none;
 }
     
-    .schedule-cell:hover .delete-button {
-        display: block; 
-    }
-    
+.schedule-cell:hover .delete-button {
+    display: block; 
+}    
 
 
 .hidden {
@@ -138,18 +139,18 @@ button {
     display: block;
 }
 #total-credits {
-    position: absolute;
-    top: 30px;
-    font-size: 30px; 
-    left: 20px;
-    font-family:'Times New Roman', Times, serif; 
-    color: white;
+    padding: 0.5rem 1rem;
+    font-family: Arial, sans-serif;
+    background-color: #DDD;
+    color: black;
+    border-radius: 0.5rem 0.5rem 0px 0px;
 }
 footer {
+    margin-top: auto;
     text-align: center;
     display: flex;
-    padding: 10px;
-
+    padding: 0.5rem 2rem;
+    width: 100%;
 
     background-color: #333;
     color: white;
