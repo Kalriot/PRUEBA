@@ -3590,162 +3590,10 @@
             ]
         }
     ]
-},"Ciencia de la Computación":{
+},"Ciencia de la Computación":
+        
+{
     "CICLO 1": [
-        {
-            "Asignatura": "INE002 - PROGRAMACIÓN Y COMPUTACIÓN",
-            "Créd.": "2",
-            "Sec.": "1",
-            "Docente": "0A0182 - RUIZ RIVERA, MARIA ELENA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "1",
-            "Docente": "06326376 - COSME FÉLIX, MIRYAM MILAGROS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "2",
-            "Docente": "06326376 - COSME FÉLIX, MIRYAM MILAGROS",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "3",
-            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "11:00",
-                    "Fin": "12:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "12:00",
-                    "Fin": "14:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "4",
-            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MIERCOLES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "5",
-            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
-        {
-            "Asignatura": "INE013 - EMPRENDIMIENTO E INNOVACIÓN",
-            "Créd.": "2",
-            "Sec.": "6",
-            "Docente": "10275035 - ORELLANA MANRIQUE, YOLANDA OLIVIA",
-            "Horarios": [
-                {
-                    "Horario": "1",
-                    "Inicio": "14:00",
-                    "Fin": "15:00",
-                    "Día": "MARTES",
-                    "Tipo": "Teoría"
-                },
-                {
-                    "Horario": "2",
-                    "Inicio": "15:00",
-                    "Fin": "17:00",
-                    "Día": "MARTES",
-                    "Tipo": "Práctica"
-                }
-            ]
-        },
         {
             "Asignatura": "INO104 - CÁLCULO I",
             "Créd.": "4",
@@ -3787,6 +3635,50 @@
                     "Fin": "18:00",
                     "Día": "JUEVES",
                     "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO108 - PROGRAMACIÓN Y COMPUTACIÓN",
+            "Créd.": "2",
+            "Sec.": "1",
+            "Docente": "0A0182 - RUIZ RIVERA, MARIA ELENA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "08:00",
+                    "Fin": "09:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "09:00",
+                    "Fin": "11:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Laboratorio"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO108 - PROGRAMACIÓN Y COMPUTACIÓN",
+            "Créd.": "2",
+            "Sec.": "2",
+            "Docente": "0A0182 - RUIZ RIVERA, MARIA ELENA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "11:00",
+                    "Fin": "12:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "12:00",
+                    "Fin": "14:00",
+                    "Día": "VIERNES",
+                    "Tipo": "Laboratorio"
                 }
             ]
         }
@@ -4712,6 +4604,138 @@
                     "Inicio": "15:00",
                     "Fin": "17:00",
                     "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "1",
+            "Docente": "06326376 - COSME FÉLIX, MIRYAM MILAGROS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "10:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "2",
+            "Docente": "06326376 - COSME FÉLIX, MIRYAM MILAGROS",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "3",
+            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "10:00",
+                    "Fin": "11:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "11:00",
+                    "Fin": "13:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "4",
+            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MIERCOLES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "5",
+            "Docente": "09620253 - COLCA GARCIA, HEDDY LILIANA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MARTES",
+                    "Tipo": "Práctica"
+                }
+            ]
+        },
+        {
+            "Asignatura": "INO208 - EMPRENDIMIENTO E INNOVACIÓN",
+            "Créd.": "2",
+            "Sec.": "6",
+            "Docente": "06799158 - LÓPEZ CÓRDOVA, FRIDA MEREYDA",
+            "Horarios": [
+                {
+                    "Horario": "1",
+                    "Inicio": "14:00",
+                    "Fin": "15:00",
+                    "Día": "MARTES",
+                    "Tipo": "Teoría"
+                },
+                {
+                    "Horario": "2",
+                    "Inicio": "15:00",
+                    "Fin": "17:00",
+                    "Día": "MARTES",
                     "Tipo": "Práctica"
                 }
             ]
