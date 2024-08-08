@@ -3333,15 +3333,15 @@
             "Horarios": [
                 {
                     "Horario": "1",
-                    "Inicio": "18:00",
-                    "Fin": "20:00",
+                    "Inicio": "08:00",
+                    "Fin": "10:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Teoría"
                 },
                 {
                     "Horario": "2",
-                    "Inicio": "20:00",
-                    "Fin": "22:00",
+                    "Inicio": "10:00",
+                    "Fin": "12:00",
                     "Día": "MIERCOLES",
                     "Tipo": "Práctica"
                 }
