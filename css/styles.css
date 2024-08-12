@@ -29,7 +29,7 @@ header h1 {
 }
 
 main {
-    margin: 1rem auto;
+    margin: 0px auto 1rem auto;
     width: 80%;
 }
 
@@ -43,6 +43,7 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .options-container label,
@@ -59,6 +60,17 @@ select, button {
 
 button {
     cursor: pointer;
+}
+
+#total-credits-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#export-image-btn, #export-excel-btn {
+    height: fit-content;
+    padding: 0.25rem 0.5rem;
 }
 
 #schedule-table {
@@ -138,12 +150,15 @@ button {
 .visible {
     display: block;
 }
-#total-credits {
+#total-credits-container {
     padding: 0.5rem 1rem;
     font-family: Arial, sans-serif;
     background-color: #DDD;
     color: black;
     border-radius: 0.5rem 0.5rem 0px 0px;
+}
+#total-credits {
+    font-size: 1rem;
 }
 footer {
     margin-top: auto;
