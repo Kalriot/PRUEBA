@@ -34,26 +34,30 @@ main {
 }
 
 .options-container {
-    text-align: center;
-    margin-bottom: 1rem;
-    background-color: white;
-    padding: 0.5rem;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+
+    margin-bottom: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    text-align: center;
+    padding: 0.5rem;
 }
 
 .options-container label,
 .options-container select,
-.options-container button,
-.color-picker-container {
+.options-container button {
     color: black;
     margin: auto;
 }
-
+.color-picker-container {
+    color: black;
+    margin: 0px;
+}
 select, button {
     padding: 8px;
 }
@@ -62,17 +66,48 @@ button {
     cursor: pointer;
 }
 
-#total-credits-container {
+.total-credits-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+
+    min-height: 2.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem 0.5rem 0px 0px;
+    background-color: #DDD;
+
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 1rem;
 }
-#export-image-btn, #export-excel-btn {
+.total-credits-container button {
     height: fit-content;
     padding: 0.25rem 0.5rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
 }
 
+#export-image-btn {
+    background-color: #CCF;
+}
+#export-image-btn:active {
+    border-color: #BBE;
+}
+#export-excel-btn {
+    background-color: #CFC;
+}
+#export-excel-btn:active {
+    border-color: #AEA;
+}
+
+.wrapper .container {
+    overflow: auto;
+    overflow-x: scroll;
+    white-space: no-wrap;
+}
 #schedule-table {
     color:black;
     background-color: white;
@@ -89,6 +124,7 @@ button {
 .schedule-cell {
     cursor: pointer;
     background-color: #e6f7ff;
+    position: relative; 
 }
 
 .schedule-cell:hover {
@@ -98,26 +134,15 @@ button {
 .color-picker-btn {
     appearance: none;
     border: none;
-    width: 60px;
-    height: 24px;
+    width: 3rem;
+    height: 1.5rem;
     cursor: pointer;
 }
 
 .color-picker-container {
-    display: flex;
+    /*display: flex;
     flex-direction: column;
-    align-items: center;
-    margin-top: 10px;
-
-}
-.schedule-cell {
-    cursor: pointer;
-    background-color: #e6f7ff;
-    position: relative; 
-}
-
-.schedule-cell:hover {
-    background-color: #b3e0ff;
+    align-items: center;*/
 }
 
 
@@ -150,16 +175,7 @@ button {
 .visible {
     display: block;
 }
-#total-credits-container {
-    padding: 0.5rem 1rem;
-    font-family: Arial, sans-serif;
-    background-color: #DDD;
-    color: black;
-    border-radius: 0.5rem 0.5rem 0px 0px;
-}
-#total-credits {
-    font-size: 1rem;
-}
+
 footer {
     margin-top: auto;
     text-align: center;
